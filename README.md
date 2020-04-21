@@ -23,7 +23,9 @@ Windows Batch File ZIP
 
 ## 다운로드 
 
-파일 다운로드 링크 생성중..
+* 윈도우즈 UAC 관리
+
+	`<https://www.google.com/>`
   
 
 ## 출처
